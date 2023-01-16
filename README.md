@@ -1,0 +1,2 @@
+# generics
+go generics task
